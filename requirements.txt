@@ -1,0 +1,7 @@
+
+
+
+-e git+https://github.com/psytron/space.git#egg=space
+-e git+https://github.com/psytron/matrix.git#egg=matrix
+-e git+https://github.com/psytron/keycache.git#egg=keycache
+-e git+https://github.com/psytron/alias.git#egg=alias
